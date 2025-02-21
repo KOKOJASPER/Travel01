@@ -1,0 +1,21 @@
+.category {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 25px;
+  margin-bottom: 2rem;
+}
+h2 {
+  color: rgb(9, 13, 53);
+  font-size: 45px;
+  font-weight: 800;
+  margin-bottom: 15px;
+}
+p {
+  font-size: 19px;
+  font-weight: 700;
+  font-family: poppins;
+}
+.search {
+  box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+}

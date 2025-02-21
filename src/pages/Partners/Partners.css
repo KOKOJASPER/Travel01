@@ -1,0 +1,18 @@
+.partners {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: normal;
+  margin-top: 75px;
+  padding: auto;
+  border: 3px salmon;
+}
+.Alitalia {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+.qantas {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}

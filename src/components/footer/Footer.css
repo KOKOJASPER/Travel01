@@ -1,0 +1,51 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: normal;
+  margin-top: 25px;
+  padding: auto;
+  background-color: #fff1da;
+  color: rgb(14, 7, 1);
+  flex-wrap: wrap;
+  line-height: 1.5rem;
+}
+.Icons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  color: whitesmoke;
+  gap: 5px;
+}
+button {
+  background-color: #f3687b;
+  border: none;
+  color: black;
+  padding: 20px 23px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+}
+input {
+  width: 400px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+}
+.facebook {
+  border-radius: 100%;
+  padding: auto 10px 10px;
+  background-color: rgb(1, 1, 253);
+  color: white;
+}
+h5 {
+  font-size: 15px;
+}
+.googol {
+  gap: 10px;
+}

@@ -1,0 +1,66 @@
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
+}
+
+.heropage {
+  display: flex;
+  flex-direction: row;
+  /* background: plum; */
+  background: url(../assets/images/Decore.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* padding-top: 30px; */
+  /* padding-left: 5%; */
+  justify-content: space-evenly;
+  /* flex-wrap: wrap; */
+  padding-top: 100px;
+  margin-left: 2%;
+}
+.destinations {
+  color: rgb(245, 4, 4);
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-top: 90px;
+  margin-bottom: 25px;
+  font-style: italic;
+}
+h1 {
+  font-weight: 800;
+  font-size: 60px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.text_p {
+  color: black;
+  font-size: 27px;
+  font-weight: 500;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding-top: 50px;
+  margin-bottom: 30px;
+  font-style: italic;
+}
+button {
+  background-color: rgb(243, 12, 224);
+  color: white;
+  font-size: 16px;
+  font-weight: 300;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  /* transition: background-color 0.3s ease; */
+  border-radius: 10px;
+  margin-right: 25px;
+}
+.Demo {
+  border-radius: 100px;
+  padding: 15px 17px;
+  margin-right: 10px;
+  background-color: brown;
+  /* padding-left: 10p; */
+}
+span {
+  padding-left: 10px;
+}

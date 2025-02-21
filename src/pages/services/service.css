@@ -1,0 +1,26 @@
+.service {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  align-items: center;
+  padding-top: 45px;
+  background-color: #f9f9ff;
+}
+.plane {
+  margin-top: -30px;
+  box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+}
+.service {
+  margin-top: -30px;
+  box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+}
+.mic {
+  margin-top: -30px;
+  box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+}
+.group {
+  margin-top: -30px;
+  box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+}

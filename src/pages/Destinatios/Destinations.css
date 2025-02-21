@@ -1,0 +1,15 @@
+.destinations {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 5rem;
+}
+.top {
+  font-weight: 600;
+  font-size: 28px;
+  color: rgb(247, 123, 8);
+}
+.top1 {
+  color: rgb(8, 5, 5);
+}
