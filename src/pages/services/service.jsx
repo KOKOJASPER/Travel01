@@ -1,7 +1,7 @@
 import React from "react";
 import "./service.css";
 import Group from "../../assets/images/Group 48.png";
-import Plane from "../../assets/images/Plane.png";
+import Plane from "../../assets/images/plane.png";
 import Mic from "../../assets/images/mic 50.png";
 import Search from "../../assets/images/Search 49.png";
 
